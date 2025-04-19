@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/k8slogging.iml" filepath="$PROJECT_DIR$/k8slogging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/k8slogging.main.iml" filepath="$PROJECT_DIR$/.idea/modules/k8slogging.main.iml" />
     </modules>
   </component>
 </project>
